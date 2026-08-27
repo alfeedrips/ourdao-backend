@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/versioned-db-migrations",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/versioned-db-migrations": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/versioned-db-migrations",
+    "origin"
+  ]
+}
